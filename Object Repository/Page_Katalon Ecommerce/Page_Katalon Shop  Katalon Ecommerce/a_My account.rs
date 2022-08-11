@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My account</name>
+   <tag></tag>
+   <elementGuidId>59a5b1a4-0b61-4512-9bba-f08085292d82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.page_item.page-item-10.focus > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='primary-menu']/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>047bec50-12e5-46e7-99a7-a2bf4c1e10d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/my-account/</value>
+      <webElementGuid>938c0833-4e01-43aa-b33e-ea22d3e71230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My account</value>
+      <webElementGuid>19c71535-e3ef-4c99-9536-b20b894350af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary-menu&quot;)/ul[@class=&quot;nav-menu&quot;]/li[@class=&quot;page_item page-item-10 focus&quot;]/a[1]</value>
+      <webElementGuid>916182fe-c9bb-4910-87f3-fada30232e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bbb60b85-37f3-4ea5-9648-9dc6ef8e9256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/my-account/</value>
+      <webElementGuid>992df547-992b-4687-b829-15cfc2225e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My account</value>
+      <webElementGuid>46110174-f9ea-4c71-b72d-352cc5b3f62f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary-menu&quot;)/ul[@class=&quot;nav-menu&quot;]/li[@class=&quot;page_item page-item-10 focus&quot;]/a[1]</value>
+      <webElementGuid>f5c2724a-cca3-4911-8b84-7b0e0387e705</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='primary-menu']/ul/li[3]/a</value>
+      <webElementGuid>b1312fcb-1a0a-4939-8012-2a537b17f862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My account')]</value>
+      <webElementGuid>19d4469c-0869-4a0a-9306-4722f6dfba61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::a[1]</value>
+      <webElementGuid>2cee0da6-861c-47eb-b20b-abda95165429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::a[2]</value>
+      <webElementGuid>04a3f839-4e8f-4a15-8cc4-82cf9e425575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sample Page'])[1]/preceding::a[1]</value>
+      <webElementGuid>323153a4-c2ee-46be-8bfb-469780d564e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[1]/preceding::a[2]</value>
+      <webElementGuid>61e24876-d460-4b20-be41-1960db481fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My account']/parent::*</value>
+      <webElementGuid>57c9ee35-ce48-413b-b4d7-26601ee57d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://cms.demo.katalon.com/my-account/')]</value>
+      <webElementGuid>557af36c-01e6-4114-8031-357563595315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>bfb19205-d8bf-4651-aa84-f202730fa6aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cms.demo.katalon.com/my-account/' and (text() = 'My account' or . = 'My account')]</value>
+      <webElementGuid>82f03e08-5583-4c39-9b7a-a2da17217261</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

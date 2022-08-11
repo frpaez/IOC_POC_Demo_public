@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://cms.demo.katalon.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_Katalon Shop  Katalon Ecommerce/a_My account'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/input__username'), 
+    'customer')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/input__password'), 
+    'fcttOx1e+dws0mP0AWb2uMRTnZbRfS0W')
+
+WebUI.click(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/button_Log in'))
+
+WebUI.click(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/p_Hello Katalon Parlitul_Changed (not Katal_3b376b'))
+
+WebUI.closeBrowser()
+
