@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Display login errors
+Enter invalid User Name and invalid Password</description>
+   <name>Login_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93dabfaf-de2b-4171-a399-2daa675c9d94</testCaseGuid>
+</TestCaseEntity>
