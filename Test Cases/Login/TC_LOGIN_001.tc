@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the login of The Store</description>
+   <name>TC_LOGIN_001</name>
+   <tag>functional</tag>
+   <comment></comment>
+   <testCaseGuid>ebc0f4df-8797-4703-98f7-a0a9a2ad8c83</testCaseGuid>
+</TestCaseEntity>
