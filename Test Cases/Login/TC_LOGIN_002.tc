@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Display login errors</description>
+   <name>TC_LOGIN_002</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <testCaseGuid>8a7f23aa-945a-4162-b499-9a39339cdbe7</testCaseGuid>
+</TestCaseEntity>
