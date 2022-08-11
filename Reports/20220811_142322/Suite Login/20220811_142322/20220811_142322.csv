@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite Login,Chrome 103.0.5060.134,,,2022-08-11 14:23:25,2022-08-11 14:24:00,34.529s,PASSED
+,,,,,,,
+Test Cases/Login/TC_LOGIN_001,Chrome 103.0.5060.134,Verify the login of The Store,functional,2022-08-11 14:23:26,2022-08-11 14:23:44,18.063s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-08-11 14:23:27,2022-08-11 14:23:31,4.642s,PASSED
+"navigateToUrl(""https://cms.demo.katalon.com/"")",Chrome 103.0.5060.134,,,2022-08-11 14:23:31,2022-08-11 14:23:35,3.947s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_Katalon Shop  Katalon Ecommerce/a_My account""))",Chrome 103.0.5060.134,,,2022-08-11 14:23:35,2022-08-11 14:23:37,1.565s,PASSED
+"setText(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/input__username""), ""customer"")",Chrome 103.0.5060.134,,,2022-08-11 14:23:37,2022-08-11 14:23:38,0.867s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/input__password""), ""fcttOx1e+dws0mP0AWb2uMRTnZbRfS0W"")",Chrome 103.0.5060.134,,,2022-08-11 14:23:38,2022-08-11 14:23:38,0.476s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/button_Log in""))",Chrome 103.0.5060.134,,,2022-08-11 14:23:38,2022-08-11 14:23:43,4.365s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/p_Hello Katalon Parlitul_Changed (not Katal_3b376b""))",Chrome 103.0.5060.134,,,2022-08-11 14:23:43,2022-08-11 14:23:43,0.645s,PASSED
+closeBrowser(),Chrome 103.0.5060.134,,,2022-08-11 14:23:43,2022-08-11 14:23:44,0.837s,PASSED
+,,,,,,,
+Test Cases/Login/TC_LOGIN_002,Chrome 103.0.5060.134,Display login errors,Negative,2022-08-11 14:23:44,2022-08-11 14:24:00,15.728s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-08-11 14:23:45,2022-08-11 14:23:47,2.264s,PASSED
+"navigateToUrl(""https://cms.demo.katalon.com/"")",Chrome 103.0.5060.134,,,2022-08-11 14:23:47,2022-08-11 14:23:50,2.433s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_Katalon Shop  Katalon Ecommerce/a_My account""))",Chrome 103.0.5060.134,,,2022-08-11 14:23:50,2022-08-11 14:23:54,4.167s,PASSED
+"setText(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/input__username""), ""customer"")",Chrome 103.0.5060.134,,,2022-08-11 14:23:54,2022-08-11 14:23:54,0.784s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/input__password""), ""vOA0cDqQbrEspEMv59VzcQ=="")",Chrome 103.0.5060.134,,,2022-08-11 14:23:54,2022-08-11 14:23:55,0.546s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/button_Log in""))",Chrome 103.0.5060.134,,,2022-08-11 14:23:55,2022-08-11 14:23:59,3.601s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/li_ERROR The password you entered for the u_646777""))",Chrome 103.0.5060.134,,,2022-08-11 14:23:59,2022-08-11 14:23:59,0.501s,PASSED
+closeBrowser(),Chrome 103.0.5060.134,,,2022-08-11 14:23:59,2022-08-11 14:24:00,0.767s,PASSED

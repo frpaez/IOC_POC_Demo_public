@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Hello Katalon Parlitul_Changed (not Katal_3b376b</name>
+   <tag></tag>
+   <elementGuidId>d8c1d1d7-4a59-42fc-82b4-814af810f5a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.woocommerce-MyAccount-content > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-10']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3dc911ac-b7ad-403a-a84e-7927018a5914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello Katalon Parlitul_Changed (not Katalon Parlitul_Changed? Log out)</value>
+      <webElementGuid>7377316c-c39b-4838-a7d2-8dafb82812c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-10&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-content&quot;]/p[1]</value>
+      <webElementGuid>111fb69c-4ac6-4431-88cf-3705c02d1e94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-10']/div/div/div/p</value>
+      <webElementGuid>a6461317-0211-4c9f-80cd-ce0a18071035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[1]</value>
+      <webElementGuid>46bad61f-856b-4ec6-aa4f-db533d80f06d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account details'])[1]/following::p[1]</value>
+      <webElementGuid>4dbd551d-860c-4002-a6e6-99e1a52f9536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello']/parent::*</value>
+      <webElementGuid>90d30448-3aa8-47f3-ae20-f35d861bba9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/p</value>
+      <webElementGuid>36c7f8b0-9472-4a08-b293-1bfd5f0e19a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Hello Katalon Parlitul_Changed (not Katalon Parlitul_Changed? Log out)' or . = 'Hello Katalon Parlitul_Changed (not Katalon Parlitul_Changed? Log out)')]</value>
+      <webElementGuid>52195790-42e2-44aa-8510-356631dac372</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
