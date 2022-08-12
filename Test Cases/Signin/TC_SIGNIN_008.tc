@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Allow a visitor to sign-up</description>
+   <name>TC_SIGNIN_008</name>
+   <tag>functional</tag>
+   <comment></comment>
+   <testCaseGuid>208b38eb-e375-40c4-8fed-50749c30ec2b</testCaseGuid>
+</TestCaseEntity>
