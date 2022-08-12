@@ -24,14 +24,14 @@ WebUI.navigateToUrl('https://cms.demo.katalon.com/')
 WebUI.click(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_Katalon Shop  Katalon Ecommerce/a_My account'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/input__username'), 
-    'customer')
+    findTestData('Test Data Login/TD_LOGIN').getValue(findTestData('Test Data Login/TD_LOGIN'), findTestData('Test Data Login/TD_LOGIN')))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/input__password'), 
-    'fcttOx1e+dws0mP0AWb2uMRTnZbRfS0W')
+    findTestData(null).getValue(1, 1))
 
 WebUI.click(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/button_Log in'))
 
-WebUI.click(findTestObject('Page_Katalon Ecommerce/Page_My account  Katalon Shop/p_Hello Katalon Parlitul_Changed (not Katal_3b376b'))
+WebUI.click(findTestObject('Object Repository/Page_Katalon Ecommerce/Page_My account  Katalon Shop/p_Hello Katalon Parlitul_Changed (not Katal_3b376b'))
 
 WebUI.closeBrowser()
 

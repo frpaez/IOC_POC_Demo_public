@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email is not a valid email address</name>
+   <tag></tag>
+   <elementGuidId>f35e276b-54ad-4103-a511-19089a7e00bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Email-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Email-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>df3c6624-a794-4cb3-aec6-f405713f4e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Email-error</value>
+      <webElementGuid>41dbb77b-0562-43ee-bf66-7c57400d2418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>'Email' is not a valid email address.</value>
+      <webElementGuid>08661a8e-31f2-4b43-8808-0b4aa3257987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Email-error&quot;)</value>
+      <webElementGuid>692fd382-cdda-457d-a8c3-515c4fe681a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='Email-error']</value>
+      <webElementGuid>2d6d6681-f9e3-498f-bde1-ab6abd39395d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-center']/form/div/div[2]/div/fieldset/div[5]/div/span/span</value>
+      <webElementGuid>52b517ae-17f5-4255-9d4a-9ae12acb79ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[2]</value>
+      <webElementGuid>cc57244b-9c77-42b6-afbc-8751ed6b138b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of birth'])[1]/following::span[5]</value>
+      <webElementGuid>81278743-fbd0-4a81-9ac5-c400020e3edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::span[1]</value>
+      <webElementGuid>96843972-45f2-4439-98e9-5815d1d13475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Password'])[1]/preceding::span[2]</value>
+      <webElementGuid>9dcf5a57-a5c5-427f-a9b7-f423d4453aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/span</value>
+      <webElementGuid>65f0b54e-e5a3-4b33-8e1a-cc991e540c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'Email-error' and (text() = concat(&quot;'&quot; , &quot;Email&quot; , &quot;'&quot; , &quot; is not a valid email address.&quot;) or . = concat(&quot;'&quot; , &quot;Email&quot; , &quot;'&quot; , &quot; is not a valid email address.&quot;))]</value>
+      <webElementGuid>ad55638e-5d8b-436d-8000-8152985953af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
